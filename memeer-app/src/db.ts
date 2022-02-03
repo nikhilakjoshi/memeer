@@ -7,7 +7,7 @@ export const DB: MemeInterface[] = [
       thumbnail: "https://randomuser.me/api/portraits/med/men/75.jpg",
       userId: 2,
       username: "@johndoe",
-      name: "John edfjhwedfhwuehfuiwheuhfuwefh Doe",
+      name: "John Doe",
     },
     comments: [
       {
